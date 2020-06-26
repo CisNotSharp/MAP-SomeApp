@@ -19,3 +19,18 @@ $teal: #4dc0b5;
 $cyan: #6cb2eb;
 
 // Add SASS theme customizations here..
+@import
+url(https://fonts.googleapis.com/css?family=Nunito:200,300,400,700);
+$font-family-base:Nunito;
+@import
+url(https://fonts.googleapis.com/css?family=Kreon:200,300,400,700);
+$headings-font-family:Kreon;
+$enable-grid-classes:true;
+$primary:#d81c24;
+$secondary:#4d5860;
+$success:#11d44c;
+$danger:#d80e0e;
+$info:#6fc8fb;
+$warning:#c29800;
+$light:#FAFAFA;
+$dark:#262936;
